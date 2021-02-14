@@ -1,0 +1,10 @@
+C:\Users\libor\Dropbox\RPA\VB\ConsoleApp1\ConsoleApp1ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\libor\Dropbox\RPA\VB\ConsoleApp1\ConsoleApp1ML.Model\bin\Debug\netstandard2.0\ConsoleApp1ML.Model.deps.json
+C:\Users\libor\Dropbox\RPA\VB\ConsoleApp1\ConsoleApp1ML.Model\bin\Debug\netstandard2.0\ConsoleApp1ML.Model.dll
+C:\Users\libor\Dropbox\RPA\VB\ConsoleApp1\ConsoleApp1ML.Model\bin\Debug\netstandard2.0\ConsoleApp1ML.Model.pdb
+C:\Users\libor\Dropbox\RPA\VB\ConsoleApp1\ConsoleApp1ML.Model\obj\Debug\netstandard2.0\ConsoleApp1ML.Model.csprojAssemblyReference.cache
+C:\Users\libor\Dropbox\RPA\VB\ConsoleApp1\ConsoleApp1ML.Model\obj\Debug\netstandard2.0\ConsoleApp1ML.Model.AssemblyInfoInputs.cache
+C:\Users\libor\Dropbox\RPA\VB\ConsoleApp1\ConsoleApp1ML.Model\obj\Debug\netstandard2.0\ConsoleApp1ML.Model.AssemblyInfo.cs
+C:\Users\libor\Dropbox\RPA\VB\ConsoleApp1\ConsoleApp1ML.Model\obj\Debug\netstandard2.0\ConsoleApp1ML.Model.csproj.CoreCompileInputs.cache
+C:\Users\libor\Dropbox\RPA\VB\ConsoleApp1\ConsoleApp1ML.Model\obj\Debug\netstandard2.0\ConsoleApp1ML.Model.dll
+C:\Users\libor\Dropbox\RPA\VB\ConsoleApp1\ConsoleApp1ML.Model\obj\Debug\netstandard2.0\ConsoleApp1ML.Model.pdb
